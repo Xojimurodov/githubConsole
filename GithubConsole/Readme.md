@@ -29,6 +29,6 @@ Git comandalari:
 - git checkout -n <new branch name>- yangi branch yaratadi va shu yaratilgan branchga oʻtadi 
 - git checkout <existing branch name> - oldindan mavjud branch nomi ko'rsatilsa shu branchga o'tadi 
 - git push origin head - yangi yaratilgan branchdan turib main branchga pull request qiladi. 
-- git clone <repository link> - repositoryni kompyuterga clone qilin oladi 
+- git clone <repository link> - repositoryni kompyuterga clone qilib oladi 
 
 github bilan ishlash: - githubda fork qilish - githubda birorta repositoryni nusxasini oʻzimizning github accountda yaratib beradi.
