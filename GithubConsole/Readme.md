@@ -21,3 +21,14 @@ Git commands
  - git add <file name> (gitga ko'rsatilgan faylni koshadi)
  - git commit -m "comment" (code dagi o'zgarishlarni komentariya bilan commit qilib qoyadi)
  - git push (loyihadagi o'zgarishlarni repository ga qoshadi)
+
+
+Git comandalari:
+
+- git branch - loyihada qaysi branchda turganimizni tekshirib beradi.
+- git checkout -n <new branch name>- yangi branch yaratadi va shu yaratilgan branchga oʻtadi 
+- git checkout <existing branch name> - oldindan mavjud branch nomi ko'rsatilsa shu branchga o'tadi 
+- git push origin head - yangi yaratilgan branchdan turib main branchga pull request qiladi. 
+- git clone <repository link> - repositoryni kompyuterga clone qilin oladi 
+
+github bilan ishlash: - githubda fork qilish - githubda birorta repositoryni nusxasini oʻzimizning github accountda yaratib beradi.
